@@ -4,6 +4,9 @@
 Log management research & structured logging
 
 ## Table of Contents
+* [General](#general)
+* [Structured Logging](#structured-logging)
+* [Distributed Tracing](#distributed-tracing)
 
 ## General
 * [📝 What are the best ways to optimize an application's logging and monitoring performance?](https://www.linkedin.com/advice/1/what-best-ways-optimize-applications-logging)
@@ -27,5 +30,8 @@ Log management research & structured logging
 * [📝 Structured logging in Rails](https://medium.com/gojekengineering/structured-logging-in-rails-75e9a8c5370b)
 * [📝 How are you doing structured logging?](https://www.reddit.com/r/rails/comments/f9xi4m/how_are_you_doing_structured_logging/)
 * [📝 Logging Sidekiq job arguments in Sidekiq](https://thinkingeek.com/2020/07/15/logging-sidekiq-job-arguments/)
+
+### Distributed Tracing
+* [📝 Distributed Tracing Research](https://github.com/judeerrol/distributed-tracing)
 
 </samp>
